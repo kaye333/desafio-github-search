@@ -2,4 +2,6 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="user_name">USER_NAME</string>
+    <string name="apiError">Ops, algo deu errado. Por favor, tente novamente mais tarde.</string>
 </resources>
